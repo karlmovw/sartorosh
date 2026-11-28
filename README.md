@@ -2,7 +2,7 @@
 
 **Barber Cuts** — erkaklar sartaroshxonasi (Barbershop) uchun ishlab chiqilgan zamonaviy, tezkor va to‘liq avtomatlashtirilgan onlayn bron qilish hamda biznesni boshqarish ekotizimi.
 
-🌐 **Rasmiy sayt:** [SAYT_LINKI_SHU_YERGA]  
+🌐 **Rasmiy sayt:** https://sulaymon-cuts.pages.dev/ 
 🤖 **Telegram Bot & Mini App:** [@sulaymon_cuts_bot](https://t.me/sulaymon_cuts_bot)
 
 ---
